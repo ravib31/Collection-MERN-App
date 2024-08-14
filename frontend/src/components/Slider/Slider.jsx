@@ -7,8 +7,8 @@ const Slider = () => {
     const [currentSlide, setCurrentSlide] = useState(0);
   
     const data = [
-        "https://cdn.pixabay.com/photo/2023/12/04/15/14/ai-generated-8429710_1280.jpg?auto=compress&cs=tinysrgb&w=1600",
-        "https://cdn.pixabay.com/photo/2017/08/01/11/48/woman-2564660_1280.jpg?auto=compress&cs=tinysrgb&w=1600",
+      "https://cdn.pixabay.com/photo/2017/08/01/11/48/woman-2564660_1280.jpg?auto=compress&cs=tinysrgb&w=1600",
+      "https://cdn.pixabay.com/photo/2023/12/04/15/14/ai-generated-8429710_1280.jpg?auto=compress&cs=tinysrgb&w=1600",
         "https://cdn.pixabay.com/photo/2019/11/26/18/19/skirt-4655129_1280.jpg?auto=compress&cs=tinysrgb&w=1600",
       ];
       

@@ -60,9 +60,9 @@ const Product = () => {
         <hr />
         <div className="info">
           <span>DESCRIPTION</span>
-          {/* <hr /> */}
+          <hr />
           <span>ADDITIONAL INFORMATION</span>
-          {/* <hr /> */}
+          <hr />
           <span>FAQ</span>
         </div>
       </div>
